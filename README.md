@@ -21,22 +21,16 @@ ITS's database structure seen consists of following attributes: Date, Doc_No, It
 
 <img width="216" height="240" alt="image" src="https://github.com/user-attachments/assets/fc70e393-9a08-402b-90e7-098667708493" />
 
-
-
-- **Table 2:**
-- **Table 3:**
-- **Table 4:**
-- **Table 5:**
-
-[Entity Relationship Diagram here]
-
+The SQL queries used to clean and inspect the data can be found here.
+The raw data issues log can be found here.
 
 
 # Executive Summary
 
 ### Overview of Findings
+After the peak in late 2022, the company experienced a downward sales trend, including a significant decline in early 2025. the strong performance in 2022 was likely driven by a post-pandemic "return-to-work" procurement surge. Moreover the decline from 2023 to 2025 can be attributed to a natural pullback following the conclusion of corporate purchasing cycles. On the other hand, as of February 13, 2026, our Quarter-to-Date (QTD) revenue has increased by 29.3% compared to the same period last year.
 
-Explain the overarching findings, trends, and themes in 2-3 sentences here. This section should address the question: "If a stakeholder were to take away 3 main insights from your project, what are the most important things they should know?" You can put yourself in the shoes of a specific stakeholder - for example, a marketing manager or finance director - to think creatively about this section.
+
 
 [Visualization, including a graph of overall trends or snapshot of a dashboard]
 
