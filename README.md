@@ -28,7 +28,7 @@ The raw data issues log can be found here.
 # Executive Summary
 
 ### Overview of Findings
-After the peak in late 2022, the company experienced a downward sales trend, including a significant decline in early 2025. the strong performance in 2022 was likely driven by a post-pandemic "return-to-work" procurement surge. Moreover the decline from 2023 to 2025 can be attributed to a natural pullback following the conclusion of corporate purchasing cycles. On the other hand, as of February 13, 2026, our Quarter-to-Date (QTD) revenue has increased by 29.3% compared to the same period last year.
+After the peak in late 2022, the company experienced a downward sales trend, including a significant decline in early 2025. The strong performance in 2022 was likely driven by a post-pandemic "return-to-work" procurement surge. Moreover the decline from 2023 to 2025 can be attributed to a natural pullback following the conclusion of corporate purchasing cycles. On the other hand, as of February 13, 2026, our Quarter-to-Date (QTD) revenue has increased by 29.3% compared to the same period last year.
 
 
 
