@@ -21,9 +21,10 @@ An interactive Looker Studio dashboard can be found here [link].
 
 Sky's database structure seen consists of following attributes: Date, Doc_No, Item_Code, Item_Description, Company_Name, Area, Qty, UOM, Unit_Price, DISC(Discount), Subtotal. With a total row count of 84,074 records
 
-<img width="1057" height="558" alt="image" src="https://github.com/user-attachments/assets/6c2950c4-d02c-4669-ac88-732bc6094b00" />
+<img width="204" height="239" alt="image" src="https://github.com/user-attachments/assets/9e87b91b-502e-4d38-9746-b2f240ea901e" />
 
 The SQL queries used to clean and inspect the data can be found here.
+
 The raw data issues log can be found here.
 
 
@@ -32,7 +33,7 @@ The raw data issues log can be found here.
 ### Overview of Findings
 After the peak in late 2022, the company experienced a downward sales trend, including a significant decline in early 2025. The strong performance in 2022 was likely driven by a post-pandemic "return-to-work" procurement surge. Moreover the decline from 2023 to 2025 can be attributed to a natural pullback following the conclusion of corporate purchasing cycles. 
 
-<img width="1192" height="620" alt="image" src="https://github.com/user-attachments/assets/a66cde49-c3fc-45e4-838d-3e294586a67d" />
+<img width="1057" height="558" alt="image" src="https://github.com/user-attachments/assets/6c2950c4-d02c-4669-ac88-732bc6094b00" />
 
 - **Trend Reversal:** Despite a consistent downtrend from 2023 to 2025, Quarter-to-Date (QTD) revenue is up 29.3% YoY (as of Feb 13, 2026), successfully breaking the three-year downward trend observed since 2023.
 - **Value over Volume:** While order frequency has slowed, the revenue surge is supported by highe value transactions.
