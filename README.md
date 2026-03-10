@@ -1,7 +1,7 @@
 # Project Background
-Founder in 2008, ITS office is an importer & distributor in all type of office automation & equipment serving customers throughtout Malaysia.
+Founder in 2008, Sky office is an importer & distributor in all type of office automation & equipment serving customers throughtout Malaysia.
 
-The company has a significant amount of sales and demographic data that was previously underutilized due to it doesnt have a data strategy team. This project aims to create a dashboard and analyze the data to undercover insights that can help ITS office improve its business.
+The company has a significant amount of sales and demographic data that was previously underutilized due to it doesnt have a data strategy team. This project aims to create a dashboard and analyze the data to undercover insights that can help Sky office improve its business.
 
 Insights and recommendations are provided based on the following key areas
 - **Sales Trends:** An evaluation of historical sales patterns.
@@ -17,7 +17,7 @@ An interactive Looker Studio dashboard can be found here [link].
 
 # Data Structure & Initial Checks
 
-ITS's database structure seen consists of following attributes: Date, Doc_No, Item_Code, Item_Description, Company_Name, Area, Qty, UOM, Unit_Price, DISC(Discount), Subtotal. With a total row count of 84,074 records
+Sky's database structure seen consists of following attributes: Date, Doc_No, Item_Code, Item_Description, Company_Name, Area, Qty, UOM, Unit_Price, DISC(Discount), Subtotal. With a total row count of 84,074 records
 
 <img width="216" height="240" alt="image" src="https://github.com/user-attachments/assets/fc70e393-9a08-402b-90e7-098667708493" />
 
