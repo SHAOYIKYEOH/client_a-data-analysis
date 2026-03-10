@@ -1,4 +1,6 @@
 # Project Background
+(To protect business confidentiality, all sensitive information in this project has been anonymized)
+
 Founder in 2008, Sky office is an importer & distributor in all type of office automation & equipment serving customers throughtout Malaysia.
 
 The company has a significant amount of sales and demographic data that was previously underutilized due to it doesnt have a data strategy team. This project aims to create a dashboard and analyze the data to undercover insights that can help Sky office improve its business.
