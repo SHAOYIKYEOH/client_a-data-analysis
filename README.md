@@ -19,7 +19,7 @@ An interactive Looker Studio dashboard can be found here [link].
 
 Sky's database structure seen consists of following attributes: Date, Doc_No, Item_Code, Item_Description, Company_Name, Area, Qty, UOM, Unit_Price, DISC(Discount), Subtotal. With a total row count of 84,074 records
 
-<img width="216" height="240" alt="image" src="https://github.com/user-attachments/assets/fc70e393-9a08-402b-90e7-098667708493" />
+<img width="1057" height="558" alt="image" src="https://github.com/user-attachments/assets/6c2950c4-d02c-4669-ac88-732bc6094b00" />
 
 The SQL queries used to clean and inspect the data can be found here.
 The raw data issues log can be found here.
