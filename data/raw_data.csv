@@ -1,0 +1,10 @@
+TABLE,COLUMN,ISSUES,ROW_COUNT,MAGNITUDE,SOLVABLE?,RESOLUTION
+raw_data,item code,missing item code,8,0.01%,no,left as is - low magnitude 
+raw_data,area,missing area,42645,50.72%,yes,"If the company name is Shopee, categorize it as Shopee; otherwise, mark it as Unknown."
+raw_data,unit price,negative transaction,5617,6.68%,yes,"left as it - It is negative due to transaction fees, discounts, and marketing fees."
+raw_data,subtotal,negative transaction,9949,11.83%,yes,"left as it - It is negative due to transaction fees, discounts, and marketing fees."
+raw_data,"unit price, subtotal",The format is inconsistent for both the unit price and subtotal rows,4332,5.15%,yes,Standardize the format
+raw_data,-,"Duplicate Entries (""Duplicate"" or a ""Split""?)",1312,1.56%,no,left as is - low magnitude and no way to infer
+raw_data,-,Different items share the same code,-,-,no,left as is - Items with very low purchase frequency are grouped under the same code.
+raw_data,area,Inconsistent Geographical Data in 'Area' Column. It lacks a standardized spatial hierarchy.,-,-,yes,Developed a SQL CASE WHEN script to map and standardize the raw 'Area' data into two new distinct dimensions: State and Clean_Area.
+raw_data,-, The products are not categorized,-,-,yes,Using BigQuery and Vertex AI to automatically categorize products.
