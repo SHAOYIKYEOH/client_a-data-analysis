@@ -10,7 +10,7 @@ Insights and recommendations are provided based on the following key areas
 - **Product Performance:** An analysis of how different product impact overall sales.
 - **Regional Comparison:** An analysis of regional impact on sales.
 
-The raw data issues log can be downloaded here [link]. 
+The raw data and issues log can be downloaded here [link](data/raw_data.csv). 
 
 The SQL queries used to clean, organize and prepare the data for this analysis are available here [link].
 
